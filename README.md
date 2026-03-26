@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Christian
 
-<!--
-**christianlcastro/christianlcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico em Desenvolvimento de Sistemas pela ETEC  
+🎓 Estudante de Bacharelado em Ciência da Computação  
+🚀 Interessado em desenvolvimento de software e tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou estudando
+
+- C++
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Projetos
+
+- Sistema de controle de notas
+- Aplicação de pedidos para restaurante
+- Projetos da faculdade
+- Site de Jogos Para Pessoas Com TEA ou Crianças.
+---
+
+⭐ Sempre aprendendo mais sobre programação.
